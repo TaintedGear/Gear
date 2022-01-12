@@ -26,6 +26,10 @@
 *.a
 *.lib
 
+# User Files
+*.suo
+*.VC.*
+
 # Executables
 *.exe
 *.out
